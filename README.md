@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jfsanmiguel
 - 👀 I’m interested in working as a Full-Stack developer
-- 🌱 I’m currently learning React cs and Python
-- 💞️ I’m looking to collaborate on web and application projects
+- 🌱 I’m currently learning c++ 
+- 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me https://www.linkedin.com/in/juan-felipe-sanmiguel
 
 <!---
